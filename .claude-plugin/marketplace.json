@@ -1,0 +1,32 @@
+{
+  "name": "jwexler10-syndesy",
+  "owner": {
+    "name": "Jason Wexler"
+  },
+  "metadata": {
+    "description": "The Syndesy skill by Jason Wexler.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "syndesy",
+      "source": "./",
+      "description": "Evidence-based decisions that compare alternatives fairly and justify every hybrid.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": [
+        "claude-skills",
+        "claude-code",
+        "ai-agents",
+        "agent-skills",
+        "codex",
+        "cursor",
+        "claude-cowork",
+        "mcp",
+        "decision-making",
+        "strategy",
+        "critical-thinking"
+      ]
+    }
+  ]
+}

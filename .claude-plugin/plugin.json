@@ -1,0 +1,26 @@
+{
+  "name": "syndesy",
+  "displayName": "Syndesy",
+  "version": "1.0.0",
+  "description": "Evidence-based decisions that compare alternatives fairly and justify every hybrid.",
+  "author": {
+    "name": "Jason Wexler",
+    "url": "https://github.com/jwexler10"
+  },
+  "homepage": "https://github.com/jwexler10/syndesy-skill#readme",
+  "repository": "https://github.com/jwexler10/syndesy-skill",
+  "license": "MIT",
+  "keywords": [
+    "claude-skills",
+    "claude-code",
+    "ai-agents",
+    "agent-skills",
+    "codex",
+    "cursor",
+    "claude-cowork",
+    "mcp",
+    "decision-making",
+    "strategy",
+    "critical-thinking"
+  ]
+}
