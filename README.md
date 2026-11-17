@@ -130,6 +130,20 @@ itself authorize changes, purchases, deployments, or other external actions.
 
 Optional research context: [background](skills/syndesy/references/background.md). It is not required to use the decision procedure.
 
+## Related skills
+
+Each skill works independently. Choose the workflow that matches your question:
+
+| Skill | Use it to |
+|---|---|
+| [Aristotle](https://github.com/jwexler10/aristotle-skill) | Challenge assumptions and reason from first principles. |
+| [Apple](https://github.com/jwexler10/apple-skill) | Work backward from the user experience to the technology. |
+| [Bushnell](https://github.com/jwexler10/bushnell-skill) | Design immediate value and meaningful depth across repeated use. |
+| [Evgenii](https://github.com/jwexler10/evgenii-skill) | Evaluate economic outcomes, incentives, and uncertainty. |
+
+Read the practical guide: [Five reusable workflows for better product and engineering decisions](https://github.com/jwexler10/aristotle-skill/blob/main/docs/five-decision-workflows.md).
+It includes a worked decision, installation steps, and the limits of the current validation.
+
 ## Repository contents
 
 - [`.claude-plugin/plugin.json`](.claude-plugin/plugin.json): Claude plugin metadata.
